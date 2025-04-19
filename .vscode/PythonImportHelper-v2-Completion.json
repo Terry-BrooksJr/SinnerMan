@@ -1,0 +1,800 @@
+[
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "pformat",
+        "importPath": "pprint",
+        "description": "pprint",
+        "isExtraImport": true,
+        "detail": "pprint",
+        "documentation": {}
+    },
+    {
+        "label": "jmespath",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "jmespath",
+        "description": "jmespath",
+        "detail": "jmespath",
+        "documentation": {}
+    },
+    {
+        "label": "exceptions",
+        "importPath": "jmespath",
+        "description": "jmespath",
+        "isExtraImport": true,
+        "detail": "jmespath",
+        "documentation": {}
+    },
+    {
+        "label": "concurrent.futures",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "boto3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "boto3",
+        "description": "boto3",
+        "detail": "boto3",
+        "documentation": {}
+    },
+    {
+        "label": "ffmpeg",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ffmpeg",
+        "description": "ffmpeg",
+        "detail": "ffmpeg",
+        "documentation": {}
+    },
+    {
+        "label": "S3UploadFailedError",
+        "importPath": "boto3.exceptions",
+        "description": "boto3.exceptions",
+        "isExtraImport": true,
+        "detail": "boto3.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "TransferConfig",
+        "importPath": "boto3.s3.transfer",
+        "description": "boto3.s3.transfer",
+        "isExtraImport": true,
+        "detail": "boto3.s3.transfer",
+        "documentation": {}
+    },
+    {
+        "label": "ConnectionClosedError",
+        "importPath": "botocore.exceptions",
+        "description": "botocore.exceptions",
+        "isExtraImport": true,
+        "detail": "botocore.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "EndpointConnectionError",
+        "importPath": "botocore.exceptions",
+        "description": "botocore.exceptions",
+        "isExtraImport": true,
+        "detail": "botocore.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "NoCredentialsError",
+        "importPath": "botocore.exceptions",
+        "description": "botocore.exceptions",
+        "isExtraImport": true,
+        "detail": "botocore.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "PartialCredentialsError",
+        "importPath": "botocore.exceptions",
+        "description": "botocore.exceptions",
+        "isExtraImport": true,
+        "detail": "botocore.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "loguru",
+        "description": "loguru",
+        "isExtraImport": true,
+        "detail": "loguru",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "loguru",
+        "description": "loguru",
+        "isExtraImport": true,
+        "detail": "loguru",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "loguru",
+        "description": "loguru",
+        "isExtraImport": true,
+        "detail": "loguru",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "loguru",
+        "description": "loguru",
+        "isExtraImport": true,
+        "detail": "loguru",
+        "documentation": {}
+    },
+    {
+        "label": "QThread",
+        "importPath": "PyQt5.QtCore",
+        "description": "PyQt5.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "pyqtSignal",
+        "importPath": "PyQt5.QtCore",
+        "description": "PyQt5.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QThread",
+        "importPath": "PyQt5.QtCore",
+        "description": "PyQt5.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "pyqtSignal",
+        "importPath": "PyQt5.QtCore",
+        "description": "PyQt5.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QSettings",
+        "importPath": "PyQt5.QtCore",
+        "description": "PyQt5.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "Qt",
+        "importPath": "PyQt5.QtCore",
+        "description": "PyQt5.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "retry",
+        "importPath": "tenacity",
+        "description": "tenacity",
+        "isExtraImport": true,
+        "detail": "tenacity",
+        "documentation": {}
+    },
+    {
+        "label": "stop_after_attempt",
+        "importPath": "tenacity",
+        "description": "tenacity",
+        "isExtraImport": true,
+        "detail": "tenacity",
+        "documentation": {}
+    },
+    {
+        "label": "wait_exponential",
+        "importPath": "tenacity",
+        "description": "tenacity",
+        "isExtraImport": true,
+        "detail": "tenacity",
+        "documentation": {}
+    },
+    {
+        "label": "FILE_SCAN_LOG_UPDATE_INTERVAL",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_ATTEMPTS",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "STATE_FILE",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "WAIT_STRATEGY",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_VIDEO_EXTENSIONS",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "FILE_SCAN_LOG_UPDATE_INTERVAL",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_VIDEO_EXTENSIONS",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "DO_REGIONS",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "tempfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "gettempdir",
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "isExtraImport": true,
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "gettempdir",
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "isExtraImport": true,
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_LOG_FILE",
+        "importPath": "log_logger",
+        "description": "log_logger",
+        "isExtraImport": true,
+        "detail": "log_logger",
+        "documentation": {}
+    },
+    {
+        "label": "QIcon",
+        "importPath": "PyQt5.QtGui",
+        "description": "PyQt5.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QStandardItem",
+        "importPath": "PyQt5.QtGui",
+        "description": "PyQt5.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QStandardItemModel",
+        "importPath": "PyQt5.QtGui",
+        "description": "PyQt5.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QAction",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QApplication",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QComboBox",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QFileDialog",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QFormLayout",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QGroupBox",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QHBoxLayout",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QHeaderView",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLabel",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLineEdit",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QListWidget",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QMainWindow",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QMenu",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QMessageBox",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QProgressBar",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QPushButton",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QSpinBox",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QStatusBar",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QSystemTrayIcon",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QTableView",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QVBoxLayout",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QWidget",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "VideoTransferWorker",
+        "importPath": "workers.mover",
+        "description": "workers.mover",
+        "isExtraImport": true,
+        "detail": "workers.mover",
+        "documentation": {}
+    },
+    {
+        "label": "FindFilesWorker",
+        "importPath": "workers.scanner",
+        "description": "workers.scanner",
+        "isExtraImport": true,
+        "detail": "workers.scanner",
+        "documentation": {}
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": ".venv.bin.jp",
+        "description": ".venv.bin.jp",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser()\n    parser.add_argument('expression')\n    parser.add_argument('-f', '--filename',\n                        help=('The filename containing the input data.  '\n                              'If a filename is not given then data is '\n                              'read from stdin.'))\n    parser.add_argument('--ast', action='store_true',\n                        help=('Pretty print the AST, do not search the data.'))\n    args = parser.parse_args()",
+        "detail": ".venv.bin.jp",
+        "documentation": {}
+    },
+    {
+        "label": "VideoTransferWorker",
+        "kind": 6,
+        "importPath": "sinnerman.workers.mover",
+        "description": "sinnerman.workers.mover",
+        "peekOfCode": "class VideoTransferWorker(QThread):\n    \"\"\"Manages the transfer of video files to a DigitalOcean Space.\n    This worker utilizes multithreading to upload multiple files concurrently,\n    tracks progress, handles errors, and supports cancellation. It also logs\n    messages and emits signals to update the UI.\n    \"\"\"\n    progress_updated = pyqtSignal(int, str, str)  # (file_index, status, message)\n    transfer_complete = pyqtSignal(int, int)  # (success_count, fail_count)\n    log_message = pyqtSignal(str)\n    def __init__(self, files: List[str], space_name: str, max_workers: int, region: str = os.environ[\"DO_REGION\"]):",
+        "detail": "sinnerman.workers.mover",
+        "documentation": {}
+    },
+    {
+        "label": "FindFilesWorker",
+        "kind": 6,
+        "importPath": "sinnerman.workers.scanner",
+        "description": "sinnerman.workers.scanner",
+        "peekOfCode": "class FindFilesWorker(QThread):\n    \"\"\"A worker thread to find video files in a directory.\n    This class emits signals to update progress and return the list of files found.\n    \"\"\"\n    files_found = pyqtSignal(list)\n    progress_update = pyqtSignal(str)\n    def __init__(self, source_dir: str, video_extensions: List[str] | None = None):\n        if video_extensions is None:\n            video_extensions = []\n        super().__init__()",
+        "detail": "sinnerman.workers.scanner",
+        "documentation": {}
+    },
+    {
+        "label": "MainWindow",
+        "kind": 6,
+        "importPath": "sinnerman.app",
+        "description": "sinnerman.app",
+        "peekOfCode": "class MainWindow(QMainWindow):\n    def get_buckets(self) -> List[str]:\n        \"\"\"Retrieve a list of available buckets.\n        Connects to Digital Ocean Spaces using boto3 and retrieves\n        a list of all available buckets. Logs a warning if no buckets\n        are found and an error if any exception occurs during the process.\n        Returns:\n            A list of bucket names (strings). Returns an empty list if\n            an error occurs or no buckets are found.\n        \"\"\"",
+        "detail": "sinnerman.app",
+        "documentation": {}
+    },
+    {
+        "label": "log_warning",
+        "kind": 2,
+        "importPath": "sinnerman.log_logger",
+        "description": "sinnerman.log_logger",
+        "peekOfCode": "def log_warning(message, category, filename, lineno, file=None, line=None):\n    logger.warning(f\" {message}\")\n# Set up logging\nif not os.path.exists(gettempdir()):\n    os.makedirs(gettempdir())\nDEBUG_LOG_FILE = os.path.join(gettempdir(), \"debug_video_transfer.log\")\nDEFAULT_LOG_FILE = os.path.join(gettempdir(), \"default_video_transfer.log\")\nDEFAULT_HANDLER = sys.stdout\nlogger.add(\n    DEBUG_LOG_FILE,",
+        "detail": "sinnerman.log_logger",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG_LOG_FILE",
+        "kind": 5,
+        "importPath": "sinnerman.log_logger",
+        "description": "sinnerman.log_logger",
+        "peekOfCode": "DEBUG_LOG_FILE = os.path.join(gettempdir(), \"debug_video_transfer.log\")\nDEFAULT_LOG_FILE = os.path.join(gettempdir(), \"default_video_transfer.log\")\nDEFAULT_HANDLER = sys.stdout\nlogger.add(\n    DEBUG_LOG_FILE,\n    level=\"DEBUG\",\n    rotation=\"5 MB\",\n    retention=\"10 days\",\n    compression=\"zip\",\n    format=\"{time} {level} {message}\",",
+        "detail": "sinnerman.log_logger",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_LOG_FILE",
+        "kind": 5,
+        "importPath": "sinnerman.log_logger",
+        "description": "sinnerman.log_logger",
+        "peekOfCode": "DEFAULT_LOG_FILE = os.path.join(gettempdir(), \"default_video_transfer.log\")\nDEFAULT_HANDLER = sys.stdout\nlogger.add(\n    DEBUG_LOG_FILE,\n    level=\"DEBUG\",\n    rotation=\"5 MB\",\n    retention=\"10 days\",\n    compression=\"zip\",\n    format=\"{time} {level} {message}\",\n)  # noaq: E501",
+        "detail": "sinnerman.log_logger",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_HANDLER",
+        "kind": 5,
+        "importPath": "sinnerman.log_logger",
+        "description": "sinnerman.log_logger",
+        "peekOfCode": "DEFAULT_HANDLER = sys.stdout\nlogger.add(\n    DEBUG_LOG_FILE,\n    level=\"DEBUG\",\n    rotation=\"5 MB\",\n    retention=\"10 days\",\n    compression=\"zip\",\n    format=\"{time} {level} {message}\",\n)  # noaq: E501\nlogger.add(",
+        "detail": "sinnerman.log_logger",
+        "documentation": {}
+    },
+    {
+        "label": "warnings.showwarning",
+        "kind": 5,
+        "importPath": "sinnerman.log_logger",
+        "description": "sinnerman.log_logger",
+        "peekOfCode": "warnings.showwarning = log_warning\nlogging.basicConfig(\n    level=logging.DEBUG,\n    format=\"%(asctime)s - %(levelname)s - %(message)s\",\n    handlers=[logging.FileHandler(DEBUG_LOG_FILE), logging.StreamHandler()],\n)\nlogging.basicConfig(\n    level=logging.INFO,\n    format=\"%(asctime)s - %(levelname)s - %(message)s\",\n    handlers=[logging.FileHandler(DEFAULT_LOG_FILE), logging.StreamHandler(DEFAULT_HANDLER)],",
+        "detail": "sinnerman.log_logger",
+        "documentation": {}
+    },
+    {
+        "label": "FILE_SCAN_LOG_UPDATE_INTERVAL",
+        "kind": 5,
+        "importPath": "sinnerman.utils",
+        "description": "sinnerman.utils",
+        "peekOfCode": "FILE_SCAN_LOG_UPDATE_INTERVAL = 20\nDEFAULT_VIDEO_EXTENSIONS: List[str] = [\".mp4\", \".avi\", \".mkv\", \".mov\", \".wmv\", \".flv\", \".webm\"]\nSTATE_FILE = os.path.join(tempfile.gettempdir(), \"transfer_state.json\")\nTRANSFER_TIMEOUT = 300  # seconds\nRETRY_MULTIPLIER = 1\nRETRY_MIN_WAIT = 4\nRETRY_MAX_WAIT = 10\nMAX_ATTEMPTS = stop_after_attempt(3)\nWAIT_STRATEGY = wait_exponential(multiplier=RETRY_MULTIPLIER, min=RETRY_MIN_WAIT, max=RETRY_MAX_WAIT)",
+        "detail": "sinnerman.utils",
+        "documentation": {}
+    },
+    {
+        "label": "STATE_FILE",
+        "kind": 5,
+        "importPath": "sinnerman.utils",
+        "description": "sinnerman.utils",
+        "peekOfCode": "STATE_FILE = os.path.join(tempfile.gettempdir(), \"transfer_state.json\")\nTRANSFER_TIMEOUT = 300  # seconds\nRETRY_MULTIPLIER = 1\nRETRY_MIN_WAIT = 4\nRETRY_MAX_WAIT = 10\nMAX_ATTEMPTS = stop_after_attempt(3)\nWAIT_STRATEGY = wait_exponential(multiplier=RETRY_MULTIPLIER, min=RETRY_MIN_WAIT, max=RETRY_MAX_WAIT)",
+        "detail": "sinnerman.utils",
+        "documentation": {}
+    },
+    {
+        "label": "TRANSFER_TIMEOUT",
+        "kind": 5,
+        "importPath": "sinnerman.utils",
+        "description": "sinnerman.utils",
+        "peekOfCode": "TRANSFER_TIMEOUT = 300  # seconds\nRETRY_MULTIPLIER = 1\nRETRY_MIN_WAIT = 4\nRETRY_MAX_WAIT = 10\nMAX_ATTEMPTS = stop_after_attempt(3)\nWAIT_STRATEGY = wait_exponential(multiplier=RETRY_MULTIPLIER, min=RETRY_MIN_WAIT, max=RETRY_MAX_WAIT)",
+        "detail": "sinnerman.utils",
+        "documentation": {}
+    },
+    {
+        "label": "RETRY_MULTIPLIER",
+        "kind": 5,
+        "importPath": "sinnerman.utils",
+        "description": "sinnerman.utils",
+        "peekOfCode": "RETRY_MULTIPLIER = 1\nRETRY_MIN_WAIT = 4\nRETRY_MAX_WAIT = 10\nMAX_ATTEMPTS = stop_after_attempt(3)\nWAIT_STRATEGY = wait_exponential(multiplier=RETRY_MULTIPLIER, min=RETRY_MIN_WAIT, max=RETRY_MAX_WAIT)",
+        "detail": "sinnerman.utils",
+        "documentation": {}
+    },
+    {
+        "label": "RETRY_MIN_WAIT",
+        "kind": 5,
+        "importPath": "sinnerman.utils",
+        "description": "sinnerman.utils",
+        "peekOfCode": "RETRY_MIN_WAIT = 4\nRETRY_MAX_WAIT = 10\nMAX_ATTEMPTS = stop_after_attempt(3)\nWAIT_STRATEGY = wait_exponential(multiplier=RETRY_MULTIPLIER, min=RETRY_MIN_WAIT, max=RETRY_MAX_WAIT)",
+        "detail": "sinnerman.utils",
+        "documentation": {}
+    },
+    {
+        "label": "RETRY_MAX_WAIT",
+        "kind": 5,
+        "importPath": "sinnerman.utils",
+        "description": "sinnerman.utils",
+        "peekOfCode": "RETRY_MAX_WAIT = 10\nMAX_ATTEMPTS = stop_after_attempt(3)\nWAIT_STRATEGY = wait_exponential(multiplier=RETRY_MULTIPLIER, min=RETRY_MIN_WAIT, max=RETRY_MAX_WAIT)",
+        "detail": "sinnerman.utils",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_ATTEMPTS",
+        "kind": 5,
+        "importPath": "sinnerman.utils",
+        "description": "sinnerman.utils",
+        "peekOfCode": "MAX_ATTEMPTS = stop_after_attempt(3)\nWAIT_STRATEGY = wait_exponential(multiplier=RETRY_MULTIPLIER, min=RETRY_MIN_WAIT, max=RETRY_MAX_WAIT)",
+        "detail": "sinnerman.utils",
+        "documentation": {}
+    },
+    {
+        "label": "WAIT_STRATEGY",
+        "kind": 5,
+        "importPath": "sinnerman.utils",
+        "description": "sinnerman.utils",
+        "peekOfCode": "WAIT_STRATEGY = wait_exponential(multiplier=RETRY_MULTIPLIER, min=RETRY_MIN_WAIT, max=RETRY_MAX_WAIT)",
+        "detail": "sinnerman.utils",
+        "documentation": {}
+    }
+]
