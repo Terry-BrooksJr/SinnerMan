@@ -21,14 +21,7 @@ DEBUG_LOG_FILE = os.path.join(gettempdir(), "debug_video_transfer.log")
 DEFAULT_LOG_FILE = os.path.join(gettempdir(), "default_video_transfer.log")
 DEFAULT_HANDLER = sys.stdout
 
-logger.add(
-    DEBUG_LOG_FILE,
-    level="DEBUG",
-    rotation="5 MB",
-    retention="10 days",
-    compression="zip",
-    format="{time} {level} {message}",
-)  # noaq: E501
+# noaq: E501
 logger.add(
     DEFAULT_LOG_FILE,
     level="INFO",

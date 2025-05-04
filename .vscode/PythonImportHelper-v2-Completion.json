@@ -52,15 +52,6 @@
         "documentation": {}
     },
     {
-        "label": "concurrent.futures",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "concurrent.futures",
-        "description": "concurrent.futures",
-        "detail": "concurrent.futures",
-        "documentation": {}
-    },
-    {
         "label": "os",
         "kind": 6,
         "isExtraImport": true,
@@ -70,302 +61,20 @@
         "documentation": {}
     },
     {
-        "label": "time",
+        "label": "TestCase",
+        "importPath": "unittest",
+        "description": "unittest",
+        "isExtraImport": true,
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
         "kind": 6,
         "isExtraImport": true,
-        "importPath": "time",
-        "description": "time",
-        "detail": "time",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Tuple",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Union",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "boto3",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "boto3",
-        "description": "boto3",
-        "detail": "boto3",
-        "documentation": {}
-    },
-    {
-        "label": "ffmpeg",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "ffmpeg",
-        "description": "ffmpeg",
-        "detail": "ffmpeg",
-        "documentation": {}
-    },
-    {
-        "label": "S3UploadFailedError",
-        "importPath": "boto3.exceptions",
-        "description": "boto3.exceptions",
-        "isExtraImport": true,
-        "detail": "boto3.exceptions",
-        "documentation": {}
-    },
-    {
-        "label": "TransferConfig",
-        "importPath": "boto3.s3.transfer",
-        "description": "boto3.s3.transfer",
-        "isExtraImport": true,
-        "detail": "boto3.s3.transfer",
-        "documentation": {}
-    },
-    {
-        "label": "ConnectionClosedError",
-        "importPath": "botocore.exceptions",
-        "description": "botocore.exceptions",
-        "isExtraImport": true,
-        "detail": "botocore.exceptions",
-        "documentation": {}
-    },
-    {
-        "label": "EndpointConnectionError",
-        "importPath": "botocore.exceptions",
-        "description": "botocore.exceptions",
-        "isExtraImport": true,
-        "detail": "botocore.exceptions",
-        "documentation": {}
-    },
-    {
-        "label": "NoCredentialsError",
-        "importPath": "botocore.exceptions",
-        "description": "botocore.exceptions",
-        "isExtraImport": true,
-        "detail": "botocore.exceptions",
-        "documentation": {}
-    },
-    {
-        "label": "PartialCredentialsError",
-        "importPath": "botocore.exceptions",
-        "description": "botocore.exceptions",
-        "isExtraImport": true,
-        "detail": "botocore.exceptions",
-        "documentation": {}
-    },
-    {
-        "label": "logger",
-        "importPath": "loguru",
-        "description": "loguru",
-        "isExtraImport": true,
-        "detail": "loguru",
-        "documentation": {}
-    },
-    {
-        "label": "logger",
-        "importPath": "loguru",
-        "description": "loguru",
-        "isExtraImport": true,
-        "detail": "loguru",
-        "documentation": {}
-    },
-    {
-        "label": "logger",
-        "importPath": "loguru",
-        "description": "loguru",
-        "isExtraImport": true,
-        "detail": "loguru",
-        "documentation": {}
-    },
-    {
-        "label": "logger",
-        "importPath": "loguru",
-        "description": "loguru",
-        "isExtraImport": true,
-        "detail": "loguru",
-        "documentation": {}
-    },
-    {
-        "label": "QThread",
-        "importPath": "PyQt5.QtCore",
-        "description": "PyQt5.QtCore",
-        "isExtraImport": true,
-        "detail": "PyQt5.QtCore",
-        "documentation": {}
-    },
-    {
-        "label": "pyqtSignal",
-        "importPath": "PyQt5.QtCore",
-        "description": "PyQt5.QtCore",
-        "isExtraImport": true,
-        "detail": "PyQt5.QtCore",
-        "documentation": {}
-    },
-    {
-        "label": "QThread",
-        "importPath": "PyQt5.QtCore",
-        "description": "PyQt5.QtCore",
-        "isExtraImport": true,
-        "detail": "PyQt5.QtCore",
-        "documentation": {}
-    },
-    {
-        "label": "pyqtSignal",
-        "importPath": "PyQt5.QtCore",
-        "description": "PyQt5.QtCore",
-        "isExtraImport": true,
-        "detail": "PyQt5.QtCore",
-        "documentation": {}
-    },
-    {
-        "label": "QSettings",
-        "importPath": "PyQt5.QtCore",
-        "description": "PyQt5.QtCore",
-        "isExtraImport": true,
-        "detail": "PyQt5.QtCore",
-        "documentation": {}
-    },
-    {
-        "label": "Qt",
-        "importPath": "PyQt5.QtCore",
-        "description": "PyQt5.QtCore",
-        "isExtraImport": true,
-        "detail": "PyQt5.QtCore",
-        "documentation": {}
-    },
-    {
-        "label": "retry",
-        "importPath": "tenacity",
-        "description": "tenacity",
-        "isExtraImport": true,
-        "detail": "tenacity",
-        "documentation": {}
-    },
-    {
-        "label": "stop_after_attempt",
-        "importPath": "tenacity",
-        "description": "tenacity",
-        "isExtraImport": true,
-        "detail": "tenacity",
-        "documentation": {}
-    },
-    {
-        "label": "wait_exponential",
-        "importPath": "tenacity",
-        "description": "tenacity",
-        "isExtraImport": true,
-        "detail": "tenacity",
-        "documentation": {}
-    },
-    {
-        "label": "FILE_SCAN_LOG_UPDATE_INTERVAL",
-        "importPath": "utils",
-        "description": "utils",
-        "isExtraImport": true,
-        "detail": "utils",
-        "documentation": {}
-    },
-    {
-        "label": "MAX_ATTEMPTS",
-        "importPath": "utils",
-        "description": "utils",
-        "isExtraImport": true,
-        "detail": "utils",
-        "documentation": {}
-    },
-    {
-        "label": "STATE_FILE",
-        "importPath": "utils",
-        "description": "utils",
-        "isExtraImport": true,
-        "detail": "utils",
-        "documentation": {}
-    },
-    {
-        "label": "WAIT_STRATEGY",
-        "importPath": "utils",
-        "description": "utils",
-        "isExtraImport": true,
-        "detail": "utils",
-        "documentation": {}
-    },
-    {
-        "label": "DEFAULT_VIDEO_EXTENSIONS",
-        "importPath": "utils",
-        "description": "utils",
-        "isExtraImport": true,
-        "detail": "utils",
-        "documentation": {}
-    },
-    {
-        "label": "FILE_SCAN_LOG_UPDATE_INTERVAL",
-        "importPath": "utils",
-        "description": "utils",
-        "isExtraImport": true,
-        "detail": "utils",
-        "documentation": {}
-    },
-    {
-        "label": "DEFAULT_VIDEO_EXTENSIONS",
-        "importPath": "utils",
-        "description": "utils",
-        "isExtraImport": true,
-        "detail": "utils",
-        "documentation": {}
-    },
-    {
-        "label": "DO_REGIONS",
-        "importPath": "utils",
-        "description": "utils",
-        "isExtraImport": true,
-        "detail": "utils",
-        "documentation": {}
-    },
-    {
-        "label": "Path",
-        "importPath": "pathlib",
-        "description": "pathlib",
-        "isExtraImport": true,
-        "detail": "pathlib",
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
         "documentation": {}
     },
     {
@@ -378,12 +87,12 @@
         "documentation": {}
     },
     {
-        "label": "re",
+        "label": "warnings",
         "kind": 6,
         "isExtraImport": true,
-        "importPath": "re",
-        "description": "re",
-        "detail": "re",
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
         "documentation": {}
     },
     {
@@ -412,35 +121,76 @@
         "documentation": {}
     },
     {
-        "label": "DEFAULT_LOG_FILE",
-        "importPath": "log_logger",
-        "description": "log_logger",
+        "label": "logger",
+        "importPath": "loguru",
+        "description": "loguru",
         "isExtraImport": true,
-        "detail": "log_logger",
+        "detail": "loguru",
         "documentation": {}
     },
     {
-        "label": "QIcon",
-        "importPath": "PyQt5.QtGui",
-        "description": "PyQt5.QtGui",
+        "label": "logger",
+        "importPath": "loguru",
+        "description": "loguru",
         "isExtraImport": true,
-        "detail": "PyQt5.QtGui",
+        "detail": "loguru",
         "documentation": {}
     },
     {
-        "label": "QStandardItem",
-        "importPath": "PyQt5.QtGui",
-        "description": "PyQt5.QtGui",
+        "label": "logger",
+        "importPath": "loguru",
+        "description": "loguru",
         "isExtraImport": true,
-        "detail": "PyQt5.QtGui",
+        "detail": "loguru",
         "documentation": {}
     },
     {
-        "label": "QStandardItemModel",
-        "importPath": "PyQt5.QtGui",
-        "description": "PyQt5.QtGui",
+        "label": "logger",
+        "importPath": "loguru",
+        "description": "loguru",
         "isExtraImport": true,
-        "detail": "PyQt5.QtGui",
+        "detail": "loguru",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "loguru",
+        "description": "loguru",
+        "isExtraImport": true,
+        "detail": "loguru",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "loguru",
+        "description": "loguru",
+        "isExtraImport": true,
+        "detail": "loguru",
+        "documentation": {}
+    },
+    {
+        "label": "keyring",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "keyring",
+        "description": "keyring",
+        "detail": "keyring",
+        "documentation": {}
+    },
+    {
+        "label": "QInputDialog",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QMessageBox",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
         "documentation": {}
     },
     {
@@ -461,6 +211,14 @@
     },
     {
         "label": "QComboBox",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QDialog",
         "importPath": "PyQt5.QtWidgets",
         "description": "PyQt5.QtWidgets",
         "isExtraImport": true,
@@ -620,6 +378,513 @@
         "documentation": {}
     },
     {
+        "label": "concurrent.futures",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "boto3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "boto3",
+        "description": "boto3",
+        "detail": "boto3",
+        "documentation": {}
+    },
+    {
+        "label": "S3UploadFailedError",
+        "importPath": "boto3.exceptions",
+        "description": "boto3.exceptions",
+        "isExtraImport": true,
+        "detail": "boto3.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "TransferConfig",
+        "importPath": "boto3.s3.transfer",
+        "description": "boto3.s3.transfer",
+        "isExtraImport": true,
+        "detail": "boto3.s3.transfer",
+        "documentation": {}
+    },
+    {
+        "label": "ConnectionClosedError",
+        "importPath": "botocore.exceptions",
+        "description": "botocore.exceptions",
+        "isExtraImport": true,
+        "detail": "botocore.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "EndpointConnectionError",
+        "importPath": "botocore.exceptions",
+        "description": "botocore.exceptions",
+        "isExtraImport": true,
+        "detail": "botocore.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "NoCredentialsError",
+        "importPath": "botocore.exceptions",
+        "description": "botocore.exceptions",
+        "isExtraImport": true,
+        "detail": "botocore.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "PartialCredentialsError",
+        "importPath": "botocore.exceptions",
+        "description": "botocore.exceptions",
+        "isExtraImport": true,
+        "detail": "botocore.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "FFmpeg",
+        "importPath": "ffmpeg",
+        "description": "ffmpeg",
+        "isExtraImport": true,
+        "detail": "ffmpeg",
+        "documentation": {}
+    },
+    {
+        "label": "FFmpegError",
+        "importPath": "ffmpeg",
+        "description": "ffmpeg",
+        "isExtraImport": true,
+        "detail": "ffmpeg",
+        "documentation": {}
+    },
+    {
+        "label": "QThread",
+        "importPath": "PyQt5.QtCore",
+        "description": "PyQt5.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "pyqtSignal",
+        "importPath": "PyQt5.QtCore",
+        "description": "PyQt5.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QThread",
+        "importPath": "PyQt5.QtCore",
+        "description": "PyQt5.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "pyqtSignal",
+        "importPath": "PyQt5.QtCore",
+        "description": "PyQt5.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QObject",
+        "importPath": "PyQt5.QtCore",
+        "description": "PyQt5.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QSettings",
+        "importPath": "PyQt5.QtCore",
+        "description": "PyQt5.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "Qt",
+        "importPath": "PyQt5.QtCore",
+        "description": "PyQt5.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "pyqtSignal",
+        "importPath": "PyQt5.QtCore",
+        "description": "PyQt5.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "retry",
+        "importPath": "tenacity",
+        "description": "tenacity",
+        "isExtraImport": true,
+        "detail": "tenacity",
+        "documentation": {}
+    },
+    {
+        "label": "stop_after_attempt",
+        "importPath": "tenacity",
+        "description": "tenacity",
+        "isExtraImport": true,
+        "detail": "tenacity",
+        "documentation": {}
+    },
+    {
+        "label": "wait_exponential",
+        "importPath": "tenacity",
+        "description": "tenacity",
+        "isExtraImport": true,
+        "detail": "tenacity",
+        "documentation": {}
+    },
+    {
+        "label": "FILE_SCAN_LOG_UPDATE_INTERVAL",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_ATTEMPTS",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "STATE_FILE",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "WAIT_STRATEGY",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "CompressionException",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_ffmpeg_binary_path",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_VIDEO_EXTENSIONS",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "FILE_SCAN_LOG_UPDATE_INTERVAL",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_VIDEO_EXTENSIONS",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "DO_REGIONS",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "STATE_FILE",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "SpacesClient",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "gc",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "gc",
+        "description": "gc",
+        "detail": "gc",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "select",
+        "description": "select",
+        "detail": "select",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "tracemalloc",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tracemalloc",
+        "description": "tracemalloc",
+        "detail": "tracemalloc",
+        "documentation": {}
+    },
+    {
+        "label": "contextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "wraps",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "objgraph",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "objgraph",
+        "description": "objgraph",
+        "detail": "objgraph",
+        "documentation": {}
+    },
+    {
+        "label": "psutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "psutil",
+        "description": "psutil",
+        "detail": "psutil",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG_LOG_FILE",
+        "importPath": "log_logger",
+        "description": "log_logger",
+        "isExtraImport": true,
+        "detail": "log_logger",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_LOG_FILE",
+        "importPath": "log_logger",
+        "description": "log_logger",
+        "isExtraImport": true,
+        "detail": "log_logger",
+        "documentation": {}
+    },
+    {
+        "label": "QIcon",
+        "importPath": "PyQt5.QtGui",
+        "description": "PyQt5.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QStandardItem",
+        "importPath": "PyQt5.QtGui",
+        "description": "PyQt5.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QStandardItemModel",
+        "importPath": "PyQt5.QtGui",
+        "description": "PyQt5.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "KeyManager",
+        "importPath": "workers.key_manager",
+        "description": "workers.key_manager",
+        "isExtraImport": true,
+        "detail": "workers.key_manager",
+        "documentation": {}
+    },
+    {
         "label": "VideoTransferWorker",
         "importPath": "workers.mover",
         "description": "workers.mover",
@@ -636,12 +901,11 @@
         "documentation": {}
     },
     {
-        "label": "warnings",
-        "kind": 6,
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
         "isExtraImport": true,
-        "importPath": "warnings",
-        "description": "warnings",
-        "detail": "warnings",
+        "detail": "enum",
         "documentation": {}
     },
     {
@@ -654,11 +918,101 @@
         "documentation": {}
     },
     {
+        "label": "TestVideoTransferWorker",
+        "kind": 6,
+        "importPath": "sinnerman.test.test",
+        "description": "sinnerman.test.test",
+        "peekOfCode": "class TestVideoTransferWorker(TestCase):\n    \"\"\"Test suite for the VideoTransferWorker class.\"\"\"\n    TEST_WORKER = VideoTransferWorker(files=[MP4_Test_File, MOV_Test_File, CLOUD_Test_file],\n    path=\"\",\n    space_name=\"test\",\n    max_workers=1,\n    region=\"nyc3\")\n    def test_duplication_check(self):\n        \"\"\"Test the duplication check functionality.\"\"\"\n        result = []",
+        "detail": "sinnerman.test.test",
+        "documentation": {}
+    },
+    {
+        "label": "MP4_Test_File",
+        "kind": 5,
+        "importPath": "sinnerman.test.test",
+        "description": "sinnerman.test.test",
+        "peekOfCode": "MP4_Test_File = \"./test/test_data/SampleVideo_1280x720_5mb.mp4\"\nMOV_Test_File = \"./test/test_data/SampleVideo_1280x720_5mb.mov\"\nCLOUD_Test_file = \"./test_data/test_duplication_method.mp4\"\nclass TestVideoTransferWorker(TestCase):\n    \"\"\"Test suite for the VideoTransferWorker class.\"\"\"\n    TEST_WORKER = VideoTransferWorker(files=[MP4_Test_File, MOV_Test_File, CLOUD_Test_file],\n    path=\"\",\n    space_name=\"test\",\n    max_workers=1,\n    region=\"nyc3\")",
+        "detail": "sinnerman.test.test",
+        "documentation": {}
+    },
+    {
+        "label": "MOV_Test_File",
+        "kind": 5,
+        "importPath": "sinnerman.test.test",
+        "description": "sinnerman.test.test",
+        "peekOfCode": "MOV_Test_File = \"./test/test_data/SampleVideo_1280x720_5mb.mov\"\nCLOUD_Test_file = \"./test_data/test_duplication_method.mp4\"\nclass TestVideoTransferWorker(TestCase):\n    \"\"\"Test suite for the VideoTransferWorker class.\"\"\"\n    TEST_WORKER = VideoTransferWorker(files=[MP4_Test_File, MOV_Test_File, CLOUD_Test_file],\n    path=\"\",\n    space_name=\"test\",\n    max_workers=1,\n    region=\"nyc3\")\n    def test_duplication_check(self):",
+        "detail": "sinnerman.test.test",
+        "documentation": {}
+    },
+    {
+        "label": "CLOUD_Test_file",
+        "kind": 5,
+        "importPath": "sinnerman.test.test",
+        "description": "sinnerman.test.test",
+        "peekOfCode": "CLOUD_Test_file = \"./test_data/test_duplication_method.mp4\"\nclass TestVideoTransferWorker(TestCase):\n    \"\"\"Test suite for the VideoTransferWorker class.\"\"\"\n    TEST_WORKER = VideoTransferWorker(files=[MP4_Test_File, MOV_Test_File, CLOUD_Test_file],\n    path=\"\",\n    space_name=\"test\",\n    max_workers=1,\n    region=\"nyc3\")\n    def test_duplication_check(self):\n        \"\"\"Test the duplication check functionality.\"\"\"",
+        "detail": "sinnerman.test.test",
+        "documentation": {}
+    },
+    {
+        "label": "log_warning",
+        "kind": 2,
+        "importPath": "sinnerman.workers.__pycache__.log_logger",
+        "description": "sinnerman.workers.__pycache__.log_logger",
+        "peekOfCode": "def log_warning(message, category, filename, lineno, file=None, line=None):\n    logger.warning(f\" {message}\")\n# Set up logging\nif not os.path.exists(gettempdir()):\n    os.makedirs(gettempdir())\nDEBUG_LOG_FILE = os.path.join(gettempdir(), \"debug_video_transfer.log\")\nDEFAULT_LOG_FILE = os.path.join(gettempdir(), \"default_video_transfer.log\")\nDEFAULT_HANDLER = sys.stdout\nlogger.add(\n    DEBUG_LOG_FILE,",
+        "detail": "sinnerman.workers.__pycache__.log_logger",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG_LOG_FILE",
+        "kind": 5,
+        "importPath": "sinnerman.workers.__pycache__.log_logger",
+        "description": "sinnerman.workers.__pycache__.log_logger",
+        "peekOfCode": "DEBUG_LOG_FILE = os.path.join(gettempdir(), \"debug_video_transfer.log\")\nDEFAULT_LOG_FILE = os.path.join(gettempdir(), \"default_video_transfer.log\")\nDEFAULT_HANDLER = sys.stdout\nlogger.add(\n    DEBUG_LOG_FILE,\n    level=\"DEBUG\",\n    rotation=\"5 MB\",\n    retention=\"10 days\",\n    compression=\"zip\",\n    format=\"{time} {level} {message}\",",
+        "detail": "sinnerman.workers.__pycache__.log_logger",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_LOG_FILE",
+        "kind": 5,
+        "importPath": "sinnerman.workers.__pycache__.log_logger",
+        "description": "sinnerman.workers.__pycache__.log_logger",
+        "peekOfCode": "DEFAULT_LOG_FILE = os.path.join(gettempdir(), \"default_video_transfer.log\")\nDEFAULT_HANDLER = sys.stdout\nlogger.add(\n    DEBUG_LOG_FILE,\n    level=\"DEBUG\",\n    rotation=\"5 MB\",\n    retention=\"10 days\",\n    compression=\"zip\",\n    format=\"{time} {level} {message}\",\n)  # noaq: E501",
+        "detail": "sinnerman.workers.__pycache__.log_logger",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_HANDLER",
+        "kind": 5,
+        "importPath": "sinnerman.workers.__pycache__.log_logger",
+        "description": "sinnerman.workers.__pycache__.log_logger",
+        "peekOfCode": "DEFAULT_HANDLER = sys.stdout\nlogger.add(\n    DEBUG_LOG_FILE,\n    level=\"DEBUG\",\n    rotation=\"5 MB\",\n    retention=\"10 days\",\n    compression=\"zip\",\n    format=\"{time} {level} {message}\",\n)  # noaq: E501\nlogger.add(",
+        "detail": "sinnerman.workers.__pycache__.log_logger",
+        "documentation": {}
+    },
+    {
+        "label": "warnings.showwarning",
+        "kind": 5,
+        "importPath": "sinnerman.workers.__pycache__.log_logger",
+        "description": "sinnerman.workers.__pycache__.log_logger",
+        "peekOfCode": "warnings.showwarning = log_warning\nlogging.basicConfig(\n    level=logging.DEBUG,\n    format=\"%(asctime)s - %(levelname)s - %(message)s\",\n    handlers=[logging.FileHandler(DEBUG_LOG_FILE), logging.StreamHandler()],\n)\nlogging.basicConfig(\n    level=logging.INFO,\n    format=\"%(asctime)s - %(levelname)s - %(message)s\",\n    handlers=[logging.FileHandler(DEFAULT_LOG_FILE), logging.StreamHandler(DEFAULT_HANDLER)],",
+        "detail": "sinnerman.workers.__pycache__.log_logger",
+        "documentation": {}
+    },
+    {
+        "label": "KeyManager",
+        "kind": 6,
+        "importPath": "sinnerman.workers.key_manager",
+        "description": "sinnerman.workers.key_manager",
+        "peekOfCode": "class KeyManager:\n    \"\"\"Manages DigitalOcean API credentials.\n    This class provides functionality to ensure the DO_SPACES_KEY and DO_SPACES_SECRET\n    environment variables are set. It prompts the user for credentials if they are\n    missing and stores them securely using keyring.\n    \"\"\"\n    SERVICE_NAME = \"SinnerMan\"\n    ORG_NAME = \"Blackberry-Py Development\"\n    APP_NAME = \"VideoTransferTool\"\n    @classmethod",
+        "detail": "sinnerman.workers.key_manager",
+        "documentation": {}
+    },
+    {
         "label": "VideoTransferWorker",
         "kind": 6,
         "importPath": "sinnerman.workers.mover",
         "description": "sinnerman.workers.mover",
-        "peekOfCode": "class VideoTransferWorker(QThread):\n    \"\"\"Manages the transfer of video files to a DigitalOcean Space.\n    This worker utilizes multithreading to upload multiple files concurrently,\n    tracks progress, handles errors, and supports cancellation. It also logs\n    messages and emits signals to update the UI.\n    \"\"\"\n    progress_updated = pyqtSignal(int, str, str)  # (file_index, status, message)\n    transfer_complete = pyqtSignal(int, int)  # (success_count, fail_count)\n    log_message = pyqtSignal(str)\n    def __init__(self, files: List[str], space_name: str, max_workers: int, region: str = os.environ[\"DO_REGION\"]):",
+        "peekOfCode": "class VideoTransferWorker(QThread):\n    \"\"\"Manages the transfer of video files to a DigitalOcean Space.\n    This worker utilizes multithreading to upload multiple files concurrently,\n    tracks progress, handles errors, and supports cancellation. It also logs\n    messages and emits signals to update the UI.\n    \"\"\"\n    # Signals for progress updates and completion\n    progress_updated = pyqtSignal(int, str, str)  # (file_index, status, message)\n    transfer_complete = pyqtSignal(int, int)  # (success_count, fail_count)\n    log_message = pyqtSignal(str)",
         "detail": "sinnerman.workers.mover",
         "documentation": {}
     },
@@ -672,11 +1026,29 @@
         "documentation": {}
     },
     {
+        "label": "ApplicationDoctor",
+        "kind": 6,
+        "importPath": "sinnerman.app",
+        "description": "sinnerman.app",
+        "peekOfCode": "class ApplicationDoctor(QObject):\n    \"\"\"Provides diagnostic tools and monitoring for the application.\n    This class encapsulates various methods for monitoring memory usage,\n    garbage collection activity, thread count, and object growth,\n    primarily for debugging purposes. It offers tools for taking memory\n    snapshots, logging statistics, and performance monitoring.\n    \"\"\"\n    debugging_enabled = pyqtSignal(bool)\n    active_monitoring = pyqtSignal(bool)\n    def __init__(",
+        "detail": "sinnerman.app",
+        "documentation": {}
+    },
+    {
         "label": "MainWindow",
         "kind": 6,
         "importPath": "sinnerman.app",
         "description": "sinnerman.app",
-        "peekOfCode": "class MainWindow(QMainWindow):\n    def get_buckets(self) -> List[str]:\n        \"\"\"Retrieve a list of available buckets.\n        Connects to Digital Ocean Spaces using boto3 and retrieves\n        a list of all available buckets. Logs a warning if no buckets\n        are found and an error if any exception occurs during the process.\n        Returns:\n            A list of bucket names (strings). Returns an empty list if\n            an error occurs or no buckets are found.\n        \"\"\"",
+        "peekOfCode": "class MainWindow(QMainWindow):\n    \"\"\"Main window for the video transfer tool.\n    Provides the user interface for selecting a source directory, configuring Digital Ocean Spaces settings,\n    scanning for video files, and initiating the transfer process.\n    \"\"\"\n    def __init__(self):\n        super().__init__()\n        KeyManager.ensure_credentials(self)  # <-- prompt if needed\n        self.setWindowTitle(\"Video Transfer Tool - Digital Ocean Spaces\")\n        self.setMinimumSize(800, 600)",
+        "detail": "sinnerman.app",
+        "documentation": {}
+    },
+    {
+        "label": "PROC",
+        "kind": 5,
+        "importPath": "sinnerman.app",
+        "description": "sinnerman.app",
+        "peekOfCode": "PROC = psutil.Process()\nclass ApplicationDoctor(QObject):\n    \"\"\"Provides diagnostic tools and monitoring for the application.\n    This class encapsulates various methods for monitoring memory usage,\n    garbage collection activity, thread count, and object growth,\n    primarily for debugging purposes. It offers tools for taking memory\n    snapshots, logging statistics, and performance monitoring.\n    \"\"\"\n    debugging_enabled = pyqtSignal(bool)\n    active_monitoring = pyqtSignal(bool)",
         "detail": "sinnerman.app",
         "documentation": {}
     },
@@ -685,7 +1057,7 @@
         "kind": 2,
         "importPath": "sinnerman.log_logger",
         "description": "sinnerman.log_logger",
-        "peekOfCode": "def log_warning(message, category, filename, lineno, file=None, line=None):\n    logger.warning(f\" {message}\")\n# Set up logging\nif not os.path.exists(gettempdir()):\n    os.makedirs(gettempdir())\nDEBUG_LOG_FILE = os.path.join(gettempdir(), \"debug_video_transfer.log\")\nDEFAULT_LOG_FILE = os.path.join(gettempdir(), \"default_video_transfer.log\")\nDEFAULT_HANDLER = sys.stdout\nlogger.add(\n    DEBUG_LOG_FILE,",
+        "peekOfCode": "def log_warning(message, category, filename, lineno, file=None, line=None):\n    logger.warning(f\" {message}\")\n# Set up logging\nif not os.path.exists(gettempdir()):\n    os.makedirs(gettempdir())\nDEBUG_LOG_FILE = os.path.join(gettempdir(), \"debug_video_transfer.log\")\nDEFAULT_LOG_FILE = os.path.join(gettempdir(), \"default_video_transfer.log\")\nDEFAULT_HANDLER = sys.stdout\n# noaq: E501\nlogger.add(",
         "detail": "sinnerman.log_logger",
         "documentation": {}
     },
@@ -694,7 +1066,7 @@
         "kind": 5,
         "importPath": "sinnerman.log_logger",
         "description": "sinnerman.log_logger",
-        "peekOfCode": "DEBUG_LOG_FILE = os.path.join(gettempdir(), \"debug_video_transfer.log\")\nDEFAULT_LOG_FILE = os.path.join(gettempdir(), \"default_video_transfer.log\")\nDEFAULT_HANDLER = sys.stdout\nlogger.add(\n    DEBUG_LOG_FILE,\n    level=\"DEBUG\",\n    rotation=\"5 MB\",\n    retention=\"10 days\",\n    compression=\"zip\",\n    format=\"{time} {level} {message}\",",
+        "peekOfCode": "DEBUG_LOG_FILE = os.path.join(gettempdir(), \"debug_video_transfer.log\")\nDEFAULT_LOG_FILE = os.path.join(gettempdir(), \"default_video_transfer.log\")\nDEFAULT_HANDLER = sys.stdout\n# noaq: E501\nlogger.add(\n    DEFAULT_LOG_FILE,\n    level=\"INFO\",\n    rotation=\"5 MB\",\n    retention=\"10 days\",\n    compression=\"zip\",",
         "detail": "sinnerman.log_logger",
         "documentation": {}
     },
@@ -703,7 +1075,7 @@
         "kind": 5,
         "importPath": "sinnerman.log_logger",
         "description": "sinnerman.log_logger",
-        "peekOfCode": "DEFAULT_LOG_FILE = os.path.join(gettempdir(), \"default_video_transfer.log\")\nDEFAULT_HANDLER = sys.stdout\nlogger.add(\n    DEBUG_LOG_FILE,\n    level=\"DEBUG\",\n    rotation=\"5 MB\",\n    retention=\"10 days\",\n    compression=\"zip\",\n    format=\"{time} {level} {message}\",\n)  # noaq: E501",
+        "peekOfCode": "DEFAULT_LOG_FILE = os.path.join(gettempdir(), \"default_video_transfer.log\")\nDEFAULT_HANDLER = sys.stdout\n# noaq: E501\nlogger.add(\n    DEFAULT_LOG_FILE,\n    level=\"INFO\",\n    rotation=\"5 MB\",\n    retention=\"10 days\",\n    compression=\"zip\",\n    format=\"{time} {level} {message}\",",
         "detail": "sinnerman.log_logger",
         "documentation": {}
     },
@@ -712,7 +1084,7 @@
         "kind": 5,
         "importPath": "sinnerman.log_logger",
         "description": "sinnerman.log_logger",
-        "peekOfCode": "DEFAULT_HANDLER = sys.stdout\nlogger.add(\n    DEBUG_LOG_FILE,\n    level=\"DEBUG\",\n    rotation=\"5 MB\",\n    retention=\"10 days\",\n    compression=\"zip\",\n    format=\"{time} {level} {message}\",\n)  # noaq: E501\nlogger.add(",
+        "peekOfCode": "DEFAULT_HANDLER = sys.stdout\n# noaq: E501\nlogger.add(\n    DEFAULT_LOG_FILE,\n    level=\"INFO\",\n    rotation=\"5 MB\",\n    retention=\"10 days\",\n    compression=\"zip\",\n    format=\"{time} {level} {message}\",\n)  # noaq: E501",
         "detail": "sinnerman.log_logger",
         "documentation": {}
     },
@@ -726,11 +1098,83 @@
         "documentation": {}
     },
     {
+        "label": "SpacesClient",
+        "kind": 6,
+        "importPath": "sinnerman.utils",
+        "description": "sinnerman.utils",
+        "peekOfCode": "class SpacesClient:\n    @staticmethod\n    def list_spaces(region: str = \"nyc3\") -> List[str]:\n        try:\n            s3_client = boto3.client(\n                \"s3\",\n                aws_access_key_id=os.environ[\"DO_SPACES_KEY\"],\n                aws_secret_access_key=os.environ[\"DO_SPACES_SECRET\"],\n                endpoint_url=f\"https://{os.environ.get('DO_REGION', region)}.digitaloceanspaces.com\",\n                region_name=os.environ.get(\"DO_REGION\", region),",
+        "detail": "sinnerman.utils",
+        "documentation": {}
+    },
+    {
+        "label": "StateAction",
+        "kind": 6,
+        "importPath": "sinnerman.utils",
+        "description": "sinnerman.utils",
+        "peekOfCode": "class StateAction(Enum):\n    SET = \"SET\"\n    GET = \"GET\"\nclass CompressionException(BaseException):\n    \"\"\"Exception raised when compression fails.\"\"\"\n    pass\nclass MediaTransferException(BaseException):\n    \"\"\"Exception raised when media transfer fails.\"\"\"\n    pass\nclass DirectoryScanException(BaseException):",
+        "detail": "sinnerman.utils",
+        "documentation": {}
+    },
+    {
+        "label": "CompressionException",
+        "kind": 6,
+        "importPath": "sinnerman.utils",
+        "description": "sinnerman.utils",
+        "peekOfCode": "class CompressionException(BaseException):\n    \"\"\"Exception raised when compression fails.\"\"\"\n    pass\nclass MediaTransferException(BaseException):\n    \"\"\"Exception raised when media transfer fails.\"\"\"\n    pass\nclass DirectoryScanException(BaseException):\n    \"\"\"Exception raised when directory scan fails.\"\"\"\n    pass\nclass WorkerError(BaseException):",
+        "detail": "sinnerman.utils",
+        "documentation": {}
+    },
+    {
+        "label": "MediaTransferException",
+        "kind": 6,
+        "importPath": "sinnerman.utils",
+        "description": "sinnerman.utils",
+        "peekOfCode": "class MediaTransferException(BaseException):\n    \"\"\"Exception raised when media transfer fails.\"\"\"\n    pass\nclass DirectoryScanException(BaseException):\n    \"\"\"Exception raised when directory scan fails.\"\"\"\n    pass\nclass WorkerError(BaseException):\n    pass",
+        "detail": "sinnerman.utils",
+        "documentation": {}
+    },
+    {
+        "label": "DirectoryScanException",
+        "kind": 6,
+        "importPath": "sinnerman.utils",
+        "description": "sinnerman.utils",
+        "peekOfCode": "class DirectoryScanException(BaseException):\n    \"\"\"Exception raised when directory scan fails.\"\"\"\n    pass\nclass WorkerError(BaseException):\n    pass",
+        "detail": "sinnerman.utils",
+        "documentation": {}
+    },
+    {
+        "label": "WorkerError",
+        "kind": 6,
+        "importPath": "sinnerman.utils",
+        "description": "sinnerman.utils",
+        "peekOfCode": "class WorkerError(BaseException):\n    pass",
+        "detail": "sinnerman.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_ffmpeg_binary_path",
+        "kind": 2,
+        "importPath": "sinnerman.utils",
+        "description": "sinnerman.utils",
+        "peekOfCode": "def get_ffmpeg_binary_path():\n    \"\"\"Get the path to the FFmpeg binary.\n    This function determines the correct path to the FFmpeg binary based on\n    whether the script is running within a PyInstaller bundle or not.\n    If in a bundle, it returns the path within the bundle; otherwise,\n    it assumes FFmpeg is available in the system's PATH.\n    Returns:\n        The path to the FFmpeg binary.\n    \"\"\"\n    if getattr(sys, \"frozen\", False):",
+        "detail": "sinnerman.utils",
+        "documentation": {}
+    },
+    {
+        "label": "update_state_file",
+        "kind": 2,
+        "importPath": "sinnerman.utils",
+        "description": "sinnerman.utils",
+        "peekOfCode": "def update_state_file(state_file: str, key: str, new_state: dict) -> None:\n    \"\"\"Update a specific section of the state file with new state information.\n    This function opens the specified state file, reads the existing JSON data,\n    updates a section identified by the provided key with the given state, and\n    writes the modified JSON back to the file.\n    \"\"\"\n    with open(file=state_file, mode=\"a\", encoding=\"utf-8\") as f:\n        # Convert Currrent state file to Python dict\n        state_dict: Dict[str, Any] = json.load(f)\n        # Get the current state",
+        "detail": "sinnerman.utils",
+        "documentation": {}
+    },
+    {
         "label": "FILE_SCAN_LOG_UPDATE_INTERVAL",
         "kind": 5,
         "importPath": "sinnerman.utils",
         "description": "sinnerman.utils",
-        "peekOfCode": "FILE_SCAN_LOG_UPDATE_INTERVAL = 20\nDEFAULT_VIDEO_EXTENSIONS: List[str] = [\".mp4\", \".avi\", \".mkv\", \".mov\", \".wmv\", \".flv\", \".webm\"]\nSTATE_FILE = os.path.join(tempfile.gettempdir(), \"transfer_state.json\")\nTRANSFER_TIMEOUT = 300  # seconds\nRETRY_MULTIPLIER = 1\nRETRY_MIN_WAIT = 4\nRETRY_MAX_WAIT = 10\nMAX_ATTEMPTS = stop_after_attempt(3)\nWAIT_STRATEGY = wait_exponential(multiplier=RETRY_MULTIPLIER, min=RETRY_MIN_WAIT, max=RETRY_MAX_WAIT)",
+        "peekOfCode": "FILE_SCAN_LOG_UPDATE_INTERVAL = 20\nDEFAULT_VIDEO_EXTENSIONS: List[str] = [\".mp4\", \".avi\", \".mkv\", \".mov\", \".wmv\", \".flv\", \".webm\"]\nSTATE_FILE = os.path.join(tempfile.gettempdir(), \"transfer_state.json\")\nTRANSFER_TIMEOUT: Literal[300] = 300  # seconds\nRETRY_MULTIPLIER: Literal[1] = 1\nRETRY_MIN_WAIT: Literal[4] = 4\nRETRY_MAX_WAIT: Literal[10] = 10\nMAX_ATTEMPTS = stop_after_attempt(3)\nWAIT_STRATEGY = wait_exponential(multiplier=RETRY_MULTIPLIER, min=RETRY_MIN_WAIT, max=RETRY_MAX_WAIT)\ndef update_state_file(state_file: str, key: str, new_state: dict) -> None:",
         "detail": "sinnerman.utils",
         "documentation": {}
     },
@@ -739,43 +1183,7 @@
         "kind": 5,
         "importPath": "sinnerman.utils",
         "description": "sinnerman.utils",
-        "peekOfCode": "STATE_FILE = os.path.join(tempfile.gettempdir(), \"transfer_state.json\")\nTRANSFER_TIMEOUT = 300  # seconds\nRETRY_MULTIPLIER = 1\nRETRY_MIN_WAIT = 4\nRETRY_MAX_WAIT = 10\nMAX_ATTEMPTS = stop_after_attempt(3)\nWAIT_STRATEGY = wait_exponential(multiplier=RETRY_MULTIPLIER, min=RETRY_MIN_WAIT, max=RETRY_MAX_WAIT)",
-        "detail": "sinnerman.utils",
-        "documentation": {}
-    },
-    {
-        "label": "TRANSFER_TIMEOUT",
-        "kind": 5,
-        "importPath": "sinnerman.utils",
-        "description": "sinnerman.utils",
-        "peekOfCode": "TRANSFER_TIMEOUT = 300  # seconds\nRETRY_MULTIPLIER = 1\nRETRY_MIN_WAIT = 4\nRETRY_MAX_WAIT = 10\nMAX_ATTEMPTS = stop_after_attempt(3)\nWAIT_STRATEGY = wait_exponential(multiplier=RETRY_MULTIPLIER, min=RETRY_MIN_WAIT, max=RETRY_MAX_WAIT)",
-        "detail": "sinnerman.utils",
-        "documentation": {}
-    },
-    {
-        "label": "RETRY_MULTIPLIER",
-        "kind": 5,
-        "importPath": "sinnerman.utils",
-        "description": "sinnerman.utils",
-        "peekOfCode": "RETRY_MULTIPLIER = 1\nRETRY_MIN_WAIT = 4\nRETRY_MAX_WAIT = 10\nMAX_ATTEMPTS = stop_after_attempt(3)\nWAIT_STRATEGY = wait_exponential(multiplier=RETRY_MULTIPLIER, min=RETRY_MIN_WAIT, max=RETRY_MAX_WAIT)",
-        "detail": "sinnerman.utils",
-        "documentation": {}
-    },
-    {
-        "label": "RETRY_MIN_WAIT",
-        "kind": 5,
-        "importPath": "sinnerman.utils",
-        "description": "sinnerman.utils",
-        "peekOfCode": "RETRY_MIN_WAIT = 4\nRETRY_MAX_WAIT = 10\nMAX_ATTEMPTS = stop_after_attempt(3)\nWAIT_STRATEGY = wait_exponential(multiplier=RETRY_MULTIPLIER, min=RETRY_MIN_WAIT, max=RETRY_MAX_WAIT)",
-        "detail": "sinnerman.utils",
-        "documentation": {}
-    },
-    {
-        "label": "RETRY_MAX_WAIT",
-        "kind": 5,
-        "importPath": "sinnerman.utils",
-        "description": "sinnerman.utils",
-        "peekOfCode": "RETRY_MAX_WAIT = 10\nMAX_ATTEMPTS = stop_after_attempt(3)\nWAIT_STRATEGY = wait_exponential(multiplier=RETRY_MULTIPLIER, min=RETRY_MIN_WAIT, max=RETRY_MAX_WAIT)",
+        "peekOfCode": "STATE_FILE = os.path.join(tempfile.gettempdir(), \"transfer_state.json\")\nTRANSFER_TIMEOUT: Literal[300] = 300  # seconds\nRETRY_MULTIPLIER: Literal[1] = 1\nRETRY_MIN_WAIT: Literal[4] = 4\nRETRY_MAX_WAIT: Literal[10] = 10\nMAX_ATTEMPTS = stop_after_attempt(3)\nWAIT_STRATEGY = wait_exponential(multiplier=RETRY_MULTIPLIER, min=RETRY_MIN_WAIT, max=RETRY_MAX_WAIT)\ndef update_state_file(state_file: str, key: str, new_state: dict) -> None:\n    \"\"\"Update a specific section of the state file with new state information.\n    This function opens the specified state file, reads the existing JSON data,",
         "detail": "sinnerman.utils",
         "documentation": {}
     },
@@ -784,7 +1192,7 @@
         "kind": 5,
         "importPath": "sinnerman.utils",
         "description": "sinnerman.utils",
-        "peekOfCode": "MAX_ATTEMPTS = stop_after_attempt(3)\nWAIT_STRATEGY = wait_exponential(multiplier=RETRY_MULTIPLIER, min=RETRY_MIN_WAIT, max=RETRY_MAX_WAIT)",
+        "peekOfCode": "MAX_ATTEMPTS = stop_after_attempt(3)\nWAIT_STRATEGY = wait_exponential(multiplier=RETRY_MULTIPLIER, min=RETRY_MIN_WAIT, max=RETRY_MAX_WAIT)\ndef update_state_file(state_file: str, key: str, new_state: dict) -> None:\n    \"\"\"Update a specific section of the state file with new state information.\n    This function opens the specified state file, reads the existing JSON data,\n    updates a section identified by the provided key with the given state, and\n    writes the modified JSON back to the file.\n    \"\"\"\n    with open(file=state_file, mode=\"a\", encoding=\"utf-8\") as f:\n        # Convert Currrent state file to Python dict",
         "detail": "sinnerman.utils",
         "documentation": {}
     },
@@ -793,7 +1201,7 @@
         "kind": 5,
         "importPath": "sinnerman.utils",
         "description": "sinnerman.utils",
-        "peekOfCode": "WAIT_STRATEGY = wait_exponential(multiplier=RETRY_MULTIPLIER, min=RETRY_MIN_WAIT, max=RETRY_MAX_WAIT)",
+        "peekOfCode": "WAIT_STRATEGY = wait_exponential(multiplier=RETRY_MULTIPLIER, min=RETRY_MIN_WAIT, max=RETRY_MAX_WAIT)\ndef update_state_file(state_file: str, key: str, new_state: dict) -> None:\n    \"\"\"Update a specific section of the state file with new state information.\n    This function opens the specified state file, reads the existing JSON data,\n    updates a section identified by the provided key with the given state, and\n    writes the modified JSON back to the file.\n    \"\"\"\n    with open(file=state_file, mode=\"a\", encoding=\"utf-8\") as f:\n        # Convert Currrent state file to Python dict\n        state_dict: Dict[str, Any] = json.load(f)",
         "detail": "sinnerman.utils",
         "documentation": {}
     }
