@@ -165,4 +165,4 @@ pre-commit = "^4.2.0"
 mypy = "^1.15.0"
 
 [tool.poetry.group.deploy.dependencies]
-pillow = "^11.2.1"
+pillow = "^12.1.1"
